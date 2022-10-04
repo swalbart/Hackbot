@@ -1,3 +1,10 @@
+# Discord Token security
+# Prevents revealing the token by accident
+token.txt
+
+# Dev files
+notes.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
